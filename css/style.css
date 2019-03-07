@@ -1,0 +1,18 @@
+body{
+  padding: 1.5% 0%;
+}
+.article{
+  font-family: 'PT Serif', serif;
+}
+.text-justify{
+  font-size: 16px;
+  font-family: 'Slabo 27px', serif;
+}
+.table-bordered{
+  padding: 16px;
+  margin: 14px;
+  margin-bottom: 22px;
+}
+footer{
+  padding: 0% 10%;
+}
